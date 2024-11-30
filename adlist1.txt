@@ -9702,10 +9702,6 @@ ff02::3 ip6-allhosts
 # [mellowads.com]
 0.0.0.0 banners.mellowads.com
 
-# [meltwater.com]
-0.0.0.0 app.meltwater.com
-0.0.0.0 ins-services.meltwater.com
-
 # [memob.com]
 0.0.0.0 ads.memob.com
 0.0.0.0 creatives.ads.memob.com
